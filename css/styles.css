@@ -67,9 +67,9 @@ h1 {
 }
 
 /* classe hide */
-/* .hide {
+.hide {
     display: none !important;
-} */
+}
 
 /* placar */
 #scoreboard-container {
@@ -112,5 +112,4 @@ h1 {
     background-color: #000;
     color: #FFF;
     padding: 20px;
-    display: none;
 }
